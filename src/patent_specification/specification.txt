@@ -1,0 +1,3 @@
+# Patent Specification
+This specification outlines the innovative methods used in WealthBridge Trade Settlement.
+Key components include...
